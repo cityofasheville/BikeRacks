@@ -2,7 +2,8 @@
 "type": "FeatureCollection",
                                                                                 
 "features": [
-{ "type": "Feature", "id": 1, "properties": { "DESC": "Biltmore St.", "SPACES": 3, "PHOTO": null, "LAT": 35.592762, "LONG": -82.55123 }, "geometry": { "type": "Point", "coordinates": [ -82.55123, 35.592762 ] } }
+{ "type": "Feature", "id": 1, "properties": { "DESC": "Biltmore St.", "SPACES": 3, "PHOTO": null, "LAT": 35.592762, "LONG": -82.55123 }, "geometry": { "type": "Point", "coordinates": [ -82.55123, 35.592762 ] } },
+{ "type": "Feature", "id": 1, "properties": { "DESC": "Biltmore St.", "SPACES": 3, "PHOTO": null, "LAT": 35.59, "LONG": -82.553 }, "geometry": { "type": "Point", "coordinates": [ -82.55123, 35.592762 ] } }
 
 ]
 }
