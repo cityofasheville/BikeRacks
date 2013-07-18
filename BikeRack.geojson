@@ -7,27 +7,27 @@
 "type": "FeatureCollection",
       
 "features": [
-{ "type": "Feature", "id": 1, "properties": { "DESC": "Haywood", "SPACES": 2, "PHOTO": null, "LAT": 35.59486, "LONG": 82.5541 }, "geometry": { "type": "Point", "coordinates": [ 82.5541, 35.59486 ] } }
+{ "type": "Feature", "id": 1, "properties": { "DESC": "Haywood", "SPACES": 2, "PHOTO": null, "LAT": 35.59486, "LONG": -82.5541 }, "geometry": { "type": "Point", "coordinates": [ 82.5541, 35.59486 ] } }
 ,
-{ "type": "Feature", "id": 2, "properties": { "DESC": "Broadway", "SPACES": 2, "PHOTO": null, "LAT": 35.59573, "LONG": 82.55202 }, "geometry": { "type": "Point", "coordinates": [ 82.55202, 35.59573 ] } }
+{ "type": "Feature", "id": 2, "properties": { "DESC": "Broadway", "SPACES": 2, "PHOTO": null, "LAT": 35.59573, "LONG": -82.55202 }, "geometry": { "type": "Point", "coordinates": [ 82.55202, 35.59573 ] } }
 ,
-{ "type": "Feature", "id": 3, "properties": { "DESC": "Broadway", "SPACES": 2, "PHOTO": null, "LAT": 35.59788, "LONG": 82.55272 }, "geometry": { "type": "Point", "coordinates": [ 82.55272, 35.59788 ] } }
+{ "type": "Feature", "id": 3, "properties": { "DESC": "Broadway", "SPACES": 2, "PHOTO": null, "LAT": 35.59788, "LONG": -82.55272 }, "geometry": { "type": "Point", "coordinates": [ 82.55272, 35.59788 ] } }
 ,
-{ "type": "Feature", "id": 4, "properties": { "DESC": "Lexington", "SPACES": 2, "PHOTO": null, "LAT": 35.59888, "LONG": 82.53402 }, "geometry": { "type": "Point", "coordinates": [ 82.53402, 35.59888 ] } }
+{ "type": "Feature", "id": 4, "properties": { "DESC": "Lexington", "SPACES": 2, "PHOTO": null, "LAT": 35.59888, "LONG": -82.53402 }, "geometry": { "type": "Point", "coordinates": [ 82.53402, 35.59888 ] } }
 ,
-{ "type": "Feature", "id": 5, "properties": { "DESC": "Lexington", "SPACES": 2, "PHOTO": null, "LAT": 35.59797, "LONG": 82.5537 }, "geometry": { "type": "Point", "coordinates": [ 82.5537, 35.59797 ] } }
+{ "type": "Feature", "id": 5, "properties": { "DESC": "Lexington", "SPACES": 2, "PHOTO": null, "LAT": 35.59797, "LONG": -82.5537 }, "geometry": { "type": "Point", "coordinates": [ 82.5537, 35.59797 ] } }
 ,
-{ "type": "Feature", "id": 6, "properties": { "DESC": "Biltmore", "SPACES": 2, "PHOTO": null, "LAT": 35.59222, "LONG": 82.55103 }, "geometry": { "type": "Point", "coordinates": [ 82.55103, 35.59222 ] } }
+{ "type": "Feature", "id": 6, "properties": { "DESC": "Biltmore", "SPACES": 2, "PHOTO": null, "LAT": 35.59222, "LONG": -82.55103 }, "geometry": { "type": "Point", "coordinates": [ 82.55103, 35.59222 ] } }
 ,
-{ "type": "Feature", "id": 7, "properties": { "DESC": "Biltmore", "SPACES": 2, "PHOTO": null, "LAT": 35.59163, "LONG": 82.55076 }, "geometry": { "type": "Point", "coordinates": [ 82.55076, 35.59163 ] } }
+{ "type": "Feature", "id": 7, "properties": { "DESC": "Biltmore", "SPACES": 2, "PHOTO": null, "LAT": 35.59163, "LONG": -82.55076 }, "geometry": { "type": "Point", "coordinates": [ 82.55076, 35.59163 ] } }
 ,
-{ "type": "Feature", "id": 8, "properties": { "DESC": "Biltmore", "SPACES": 7, "PHOTO": null, "LAT": 35.59164, "LONG": 82.55081 }, "geometry": { "type": "Point", "coordinates": [ 82.55081, 35.59164 ] } }
+{ "type": "Feature", "id": 8, "properties": { "DESC": "Biltmore", "SPACES": 7, "PHOTO": null, "LAT": 35.59164, "LONG": -82.55081 }, "geometry": { "type": "Point", "coordinates": [ 82.55081, 35.59164 ] } }
 ,
-{ "type": "Feature", "id": 9, "properties": { "DESC": "Biltmore", "SPACES": 2, "PHOTO": null, "LAT": 35.59275, "LONG": 82.55105 }, "geometry": { "type": "Point", "coordinates": [ 82.55105, 35.59275 ] } }
+{ "type": "Feature", "id": 9, "properties": { "DESC": "Biltmore", "SPACES": 2, "PHOTO": null, "LAT": 35.59275, "LONG": -82.55105 }, "geometry": { "type": "Point", "coordinates": [ 82.55105, 35.59275 ] } }
 ,
-{ "type": "Feature", "id": 10, "properties": { "DESC": "Biltmore", "SPACES": 2, "PHOTO": null, "LAT": 35.59319, "LONG": 82.55141 }, "geometry": { "type": "Point", "coordinates": [ 82.55141, 35.59319 ] } }
+{ "type": "Feature", "id": 10, "properties": { "DESC": "Biltmore", "SPACES": 2, "PHOTO": null, "LAT": 35.59319, "LONG": -82.55141 }, "geometry": { "type": "Point", "coordinates": [ 82.55141, 35.59319 ] } }
 ,
-{ "type": "Feature", "id": 11, "properties": { "DESC": "Biltmore", "SPACES": 2, "PHOTO": null, "LAT": 35.59468, "LONG": 82.55167 }, "geometry": { "type": "Point", "coordinates": [ 82.55167, 35.59468 ] } }
+{ "type": "Feature", "id": 11, "properties": { "DESC": "Biltmore", "SPACES": 2, "PHOTO": null, "LAT": 35.59468, "LONG": -82.55167 }, "geometry": { "type": "Point", "coordinates": [ 82.55167, 35.59468 ] } }
 
 ]
 }
